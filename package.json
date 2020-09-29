@@ -1,6 +1,6 @@
 {
   "name": "pinyin-peer",
-  "version": "2.9.1",
+  "version": "2.9.2",
   "description": "汉语拼音转换工具。",
   "files": [
     "bin",
@@ -19,6 +19,7 @@
   "homepage": "http://pinyin.hotoo.me/",
   "author": "闲耘 <hotoo.cn@gmail.com>",
   "main": "lib/index.js",
+  "types": "lib/index.d.js",
   "bin": {
     "pinyin": "./bin/pinyin"
   },

@@ -1,5 +1,7 @@
 # 汉字拼音转换工具。
 
+This fork just move nodejieba to peerDependencies, and won't update after original pinyin package merges it.
+
 ---
 
 [![NPM version][npm-badge]][npm-url]
